@@ -1,0 +1,281 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="isinCodeLbl.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="isinCodeLbl.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12.75pt, style=Bold</value>
+  </data>
+  <data name="isinCodeLbl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>25, 30</value>
+  </data>
+  <data name="isinCodeLbl.Size" type="System.Drawing.Size, System.Drawing">
+    <value>80, 23</value>
+  </data>
+  <data name="isinCodeLbl.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="isinCodeLbl.Text" xml:space="preserve">
+    <value>Security:</value>
+  </data>
+  <data name="&gt;&gt;isinCodeLbl.Name" xml:space="preserve">
+    <value>isinCodeLbl</value>
+  </data>
+  <data name="&gt;&gt;isinCodeLbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;isinCodeLbl.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;isinCodeLbl.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="isinComboBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>25, 56</value>
+  </data>
+  <data name="isinComboBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>449, 23</value>
+  </data>
+  <data name="isinComboBox.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;isinComboBox.Name" xml:space="preserve">
+    <value>isinComboBox</value>
+  </data>
+  <data name="&gt;&gt;isinComboBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;isinComboBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;isinComboBox.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="paymentDateLbl.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="paymentDateLbl.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12.75pt, style=Bold</value>
+  </data>
+  <data name="paymentDateLbl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>25, 115</value>
+  </data>
+  <data name="paymentDateLbl.Size" type="System.Drawing.Size, System.Drawing">
+    <value>123, 23</value>
+  </data>
+  <data name="paymentDateLbl.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="paymentDateLbl.Text" xml:space="preserve">
+    <value>Payment Date</value>
+  </data>
+  <data name="&gt;&gt;paymentDateLbl.Name" xml:space="preserve">
+    <value>paymentDateLbl</value>
+  </data>
+  <data name="&gt;&gt;paymentDateLbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;paymentDateLbl.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;paymentDateLbl.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="dateTimePicker1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>25, 141</value>
+  </data>
+  <data name="dateTimePicker1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>222, 23</value>
+  </data>
+  <data name="dateTimePicker1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;dateTimePicker1.Name" xml:space="preserve">
+    <value>dateTimePicker1</value>
+  </data>
+  <data name="&gt;&gt;dateTimePicker1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DateTimePicker, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dateTimePicker1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;dateTimePicker1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="button1.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="button1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>25, 196</value>
+  </data>
+  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>206, 37</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="button1.Text" xml:space="preserve">
+    <value>Submit</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="errorProvider1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 15</value>
+  </data>
+  <data name="$this.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="$this.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1208, 525</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>AddCoupon</value>
+  </data>
+  <data name="&gt;&gt;errorProvider1.Name" xml:space="preserve">
+    <value>errorProvider1</value>
+  </data>
+  <data name="&gt;&gt;errorProvider1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ErrorProvider, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>AddCoupon</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>
